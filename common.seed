@@ -11,6 +11,7 @@ CONFIG_BUSYBOX_CONFIG_UNICODE_SUPPORT=y
 CONFIG_DROPBEAR_ECC_FULL=y
 CONFIG_DROPBEAR_ECC=y
 CONFIG_PACKAGE_luci-app-argon-config=y
+CONFIG_PACKAGE_luci-app-autoreboot=y
 CONFIG_PACKAGE_luci-app-diskman=y
 CONFIG_PACKAGE_luci-app-filetransfer=y
 CONFIG_PACKAGE_luci-app-godproxy=y
